@@ -1,0 +1,20 @@
+{
+    "name": "BID Company Portfolio",
+    "short_name": "BID Portfolio",
+    "icons": [
+        {
+        "src": "bidicon_192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        },
+        {
+        "src": "bidicon_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#72be4a",
+    "background_color": "#55565a",
+    "display": "standalone"
+}
